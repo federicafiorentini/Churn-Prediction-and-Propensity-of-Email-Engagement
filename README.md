@@ -1,5 +1,7 @@
 # Churn-Prediction-and-Propensity-of-Email-Engagement
 
+![Cattura](https://user-images.githubusercontent.com/49710127/95354708-075c4880-08c5-11eb-98f1-bd191ef5681d.PNG)
+
 Questo progetto consiste nell’applicazione di algoritmi di Machine Learning nei seguenti due modelli di business: Propensity of email engagement e Propensity to churn.
 In generale, l’obiettivo dei propensity modelling è quello di analizzare il comportamento dei clienti selenzionando quelli che, con un’alta probabilità, potrebbero commettere una certa azione nel futuro. 
 Il primo modello, propensity of email engagement, va ad indagare quanto una campagna marketing basata sull’invio di email riesca a “raggiungere” i clienti, e quindi ad essere efficace. 
